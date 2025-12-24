@@ -1,0 +1,8 @@
+{
+  "name": "0xapi",
+  "version": "0.1.0",
+  "type": "api",
+  "entry": "./index.tsx"
+}
+Add module.json
+
